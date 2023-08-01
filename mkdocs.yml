@@ -6,7 +6,7 @@ theme:
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default
+      scheme: slate
       primary: blue
       accent: indigo
       toggle:
